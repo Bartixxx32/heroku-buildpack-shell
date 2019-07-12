@@ -1,3 +1,3 @@
 <?php
-exec('/usr/bin/nohup ./simple-turn-linux-amd64 &');
+exec('touch test.txt');
 ?>
