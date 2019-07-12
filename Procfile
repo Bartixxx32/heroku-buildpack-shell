@@ -1,1 +1,1 @@
-app: /usr/bin/nohup echo $REALM ; echo $USERS ; echo $UDP_PORT
+app: /usr/bin/nohup cd /app ; /usr/bin/nohup ./simple-turn-linux-amd64 &
