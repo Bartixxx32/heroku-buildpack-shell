@@ -1,1 +1,1 @@
-app: cd /app ; nohup ./simple-turn-linux-amd64 &
+app: cd /app ; /usr/bin/nohup  ./simple-turn-linux-amd64 &
